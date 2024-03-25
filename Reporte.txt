@@ -1,0 +1,17 @@
+Comienzo: 04/03/2024 13:27
+Duración Estimada: 
+Desarrollado: JL
+Verificado:
+Aprobador:
+Requerimientos:
+	1. Cambiar a estructuras de archivos
+	2. log diarios y resumen a json
+	3. mejorar la ui 0.0.1
+	4. mejorar el corechatbot 0.0.1
+
+Desarrollo
+1. Separar la lógica en archivos:
+	a. Lógica para el chatbot core que esta desarrollado en llamaindex y openai
+	b. Lógica para menejar sesiones
+	c. Archivo para manejar el ui streamlit
+	d. Archivo principal
